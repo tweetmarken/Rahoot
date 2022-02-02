@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cahoots/static/css/main.aa7cdbea.chunk.css",
-    "main.js": "/cahoots/static/js/main.56cff318.chunk.js",
-    "main.js.map": "/cahoots/static/js/main.56cff318.chunk.js.map",
-    "runtime-main.js": "/cahoots/static/js/runtime-main.0c876a5a.js",
-    "runtime-main.js.map": "/cahoots/static/js/runtime-main.0c876a5a.js.map",
-    "static/css/2.3661fc73.chunk.css": "/cahoots/static/css/2.3661fc73.chunk.css",
-    "static/js/2.e95bb9db.chunk.js": "/cahoots/static/js/2.e95bb9db.chunk.js",
-    "static/js/2.e95bb9db.chunk.js.map": "/cahoots/static/js/2.e95bb9db.chunk.js.map",
-    "index.html": "/cahoots/index.html",
-    "precache-manifest.03ade0d05d9832d489936eb6a4ba5da2.js": "/cahoots/precache-manifest.03ade0d05d9832d489936eb6a4ba5da2.js",
-    "service-worker.js": "/cahoots/service-worker.js",
-    "static/css/2.3661fc73.chunk.css.map": "/cahoots/static/css/2.3661fc73.chunk.css.map",
-    "static/css/main.aa7cdbea.chunk.css.map": "/cahoots/static/css/main.aa7cdbea.chunk.css.map",
-    "static/js/2.e95bb9db.chunk.js.LICENSE.txt": "/cahoots/static/js/2.e95bb9db.chunk.js.LICENSE.txt"
+    "main.css": "/Rahoots/static/css/main.aa7cdbea.chunk.css",
+    "main.js": "/Rahoots/static/js/main.42ff6f02.chunk.js",
+    "main.js.map": "/Rahoots/static/js/main.42ff6f02.chunk.js.map",
+    "runtime-main.js": "/Rahoots/static/js/runtime-main.555f6c44.js",
+    "runtime-main.js.map": "/Rahoots/static/js/runtime-main.555f6c44.js.map",
+    "static/css/2.3661fc73.chunk.css": "/Rahoots/static/css/2.3661fc73.chunk.css",
+    "static/js/2.dd1c1740.chunk.js": "/Rahoots/static/js/2.dd1c1740.chunk.js",
+    "static/js/2.dd1c1740.chunk.js.map": "/Rahoots/static/js/2.dd1c1740.chunk.js.map",
+    "index.html": "/Rahoots/index.html",
+    "precache-manifest.31d0b86688c8fd6203dd83a969818d1a.js": "/Rahoots/precache-manifest.31d0b86688c8fd6203dd83a969818d1a.js",
+    "service-worker.js": "/Rahoots/service-worker.js",
+    "static/css/2.3661fc73.chunk.css.map": "/Rahoots/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.aa7cdbea.chunk.css.map": "/Rahoots/static/css/main.aa7cdbea.chunk.css.map",
+    "static/js/2.dd1c1740.chunk.js.LICENSE.txt": "/Rahoots/static/js/2.dd1c1740.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c876a5a.js",
+    "static/js/runtime-main.555f6c44.js",
     "static/css/2.3661fc73.chunk.css",
-    "static/js/2.e95bb9db.chunk.js",
+    "static/js/2.dd1c1740.chunk.js",
     "static/css/main.aa7cdbea.chunk.css",
-    "static/js/main.56cff318.chunk.js"
+    "static/js/main.42ff6f02.chunk.js"
   ]
 }
