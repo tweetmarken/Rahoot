@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9db7e978e74380ece3d7fcb80d3fc643",
+    "revision": "f32898cecfc258d147504bd834577066",
     "url": "/Rahoot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rahoot/static/css/2.3661fc73.chunk.css"
   },
   {
-    "revision": "526d8061e2a838301860",
+    "revision": "3259b23940e0456b4f04",
     "url": "/Rahoot/static/css/main.aa7cdbea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rahoot/static/js/2.7897ee71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "526d8061e2a838301860",
-    "url": "/Rahoot/static/js/main.27bb8318.chunk.js"
+    "revision": "3259b23940e0456b4f04",
+    "url": "/Rahoot/static/js/main.c3d7ba47.chunk.js"
   },
   {
     "revision": "654ba3429500f3509721",
