@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rahoot/precache-manifest.7206f22acf88b100c3c7de55b1d8f2c7.js"
+  "/Rahoot/precache-manifest.775b4c68318830edaebc2fc46e11af40.js"
 );
 
 self.addEventListener('message', (event) => {
